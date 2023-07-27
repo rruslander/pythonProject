@@ -3,6 +3,7 @@
 def exp(a, b):
     print("Start")
     print("Добуток чисел", a ** b)
-    
+    print("end")
+
 
 exp(3, 2)
