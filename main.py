@@ -7,3 +7,7 @@ def exp(a, b):
 
 
 exp(3, 2)
+
+def set():
+    print("fix")
+
