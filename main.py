@@ -5,5 +5,8 @@ def exp(a, b):
     print("Добуток чисел", a ** b)
     print("end")
 
+def func():
+    return None
+
 
 exp(3, 2)
