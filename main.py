@@ -3,7 +3,7 @@
 def exp(a, b):
     print("Start")
     print("Добуток чисел", a ** b)
-    print("end!")
+    print("hello!")
 
 def func():
     return 1
