@@ -11,6 +11,6 @@ def func():
 
 exp(3, 2)
 
-def set():
+def my_set():
     print("fix")
 
